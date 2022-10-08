@@ -2,7 +2,7 @@
   <img src="https://github.com/Kakeru3/Kakeru3/blob/main/avatar.jpg" width="100"/>
   <div id="badges">
     <a href="https://www.instagram.com/massa_camera/">
-      <img src="https://img.shields.io/badge/-Instagram-E4405F.svg?logo=instagram&style=for-the-badge" alt="Instagram Badge"/>
+      <img src="https://img.shields.io/badge/-Instagram-E4405F.svg?logo=instagram&style=for-the-badgelogoColor=white" alt="Instagram Badge"/>
     </a>
     <a href="https://twitter.com/KakeruCtt">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/
