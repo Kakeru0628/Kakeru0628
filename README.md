@@ -28,4 +28,4 @@
 - KDE Manjaro Linux
 
 # Flwer Link
-[![Flwer Link](https://gh-card.dev/repos/flwer-lang/flwer.svg)](https://github.com/flwer-lang/flwer)
+[![flwer-lang/flwer - GitHub](https://gh-card.dev/repos/flwer-lang/flwer.svg)](https://github.com/flwer-lang/flwer)
