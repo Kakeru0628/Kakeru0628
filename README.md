@@ -24,8 +24,8 @@
 
 # Development Environment
 - Mac book 2017
+- ThinkPad X270 (KDE Plasma Manjaro Linux)
 - Windows 11 Pro
-- KDE Manjaro Linux
 
 # Flwer Link
 [![flwer-lang/flwer - GitHub](https://gh-card.dev/repos/flwer-lang/flwer.svg)](https://github.com/flwer-lang/flwer)
